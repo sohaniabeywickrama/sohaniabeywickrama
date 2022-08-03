@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm sohaniabeywickrama</h1>
 <h3 align="center">Developer 👨‍💻</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaniabeywickrama" alt="sohaniabeywickrama" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently Learning **Java.HTML.CSS.C#**
@@ -28,5 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaniabeywickrama&show_icons=true&locale=en&layout=compact" alt="sohaniabeywickrama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaniabeywickrama&show_icons=true&locale=en" alt="sohaniabeywickrama" /></p>
-
 
