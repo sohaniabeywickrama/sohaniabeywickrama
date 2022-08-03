@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm sohaniabeywickrama</h1>
-- 🌱 I’m currently learning **Java,HTML,CSS,C#**
-
-- 📫 How to reach me **sohaniabeywickrama@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sohani abeywickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohani abeywickrama" height="30" width="40" /></a>
