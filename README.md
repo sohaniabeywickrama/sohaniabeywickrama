@@ -9,7 +9,7 @@
 
 - 🔭 I’m  **University Student**                                          
              
-- 👯 I’m currently learning **Java,Html,CSS,Js**                             
+- 👯 I’m currently learning **Java,Html,CSS,Js**                          <p align="right"> ![cute-girl-with-laptop-cartoon-character-vector-3560490](https://user-images.githubusercontent.com/99112193/220842855-f9a4316b-357f-4af1-903c-1e7e26c189f3.jpg)
 
 - 👨‍💻 I'm Student at **Institute Of Software Engineering**
 
