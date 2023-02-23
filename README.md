@@ -1,4 +1,7 @@
-### Hi I'M SOHANI ABEYWICKRAMA 👋
+
+![header_](https://user-images.githubusercontent.com/99112193/220839749-2d9cb215-8dea-414d-8fc4-f9cd8bee80ad.png)
+
+                                       Hi I'M SOHANI ABEYWICKRAMA 👋
 
 
 
