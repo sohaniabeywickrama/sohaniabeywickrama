@@ -1,21 +1,20 @@
 
 ![header_](https://user-images.githubusercontent.com/99112193/220839749-2d9cb215-8dea-414d-8fc4-f9cd8bee80ad.png)
      
-                                                    **Hi I'M SOHANI ABEYWICKRAMA** 👋
+                                                    Hi I'M SOHANI ABEYWICKRAMA 👋
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaniabeywickrama&label=Profile%20views&color=0e75b6&style=flat" alt="sohaniabeywickrama" /> </p>
 
-- 🔭 I’m currently Learning **Java.HTML.CSS.C#**
+- 🔭 I’m  **University Student**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m currently learning **Java,Html,CSS,Js
 
-- 👨‍💻 All of my projects are available at [HERE!](HERE!)
+- 👨‍💻 I'm Student at **Institute Of Software Engineering**
 
 - 📫 How to reach me **sohaniabeywickrama@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
