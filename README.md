@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaniabeywickrama&label=Profile%20views&color=0e75b6&style=flat" alt="sohaniabeywickrama" /> </p>
 
 - 🔭 I’m  **University Student**                                          
-
-- 👯 I’m currently learning **Java,Html,CSS,Js**
+             
+- 👯 I’m currently learning **Java,Html,CSS,Js**                             
 
 - 👨‍💻 I'm Student at **Institute Of Software Engineering**
 
