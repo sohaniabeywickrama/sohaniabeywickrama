@@ -1,15 +1,6 @@
 
-![header_](https://user-images.githubusercontent.com/99112193/220839749-2d9cb215-8dea-414d-8fc4-f9cd8bee80ad.png)
-     
-                                                    Hi I'M SOHANI ABEYWICKRAMA 👋 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaniabeywickrama&label=Profile%20views&color=0e75b6&style=flat" alt="sohaniabeywickrama" /> </p>                                      
-                       
-- 👨‍💻 I'm Student at **Institute Of Software Engineering**
-
-- 📫 How to reach me **sohaniabeywickrama@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
