@@ -7,13 +7,13 @@
 
 
 
-- 👨‍💻 Sohani.me [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
-- 🌐 Linkedin [https://www.linkedin.com/in/sohani-abeywickrama/
-- 🎨 Behance [https://www.behance.net/sohaniabeywic
+-  Sohani.me [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
+-  Linkedin [https://www.linkedin.com/in/sohani-abeywickrama/
+-  Behance [https://www.behance.net/sohaniabeywic
 
 -  Email **sohaniabeywickrama@gmail.com**
 
-- 📄 Resume [https://read.cv/sohanyy](https://read.cv/sohanyy)
+-  Resume [https://read.cv/sohanyy](https://read.cv/sohanyy)
 
  <b>Design Methods </b>
 Market Research, Competitive Analysis, User Research, User Interviews, User Surveys, Persona Creation, Heuristic Evaluations, Rapid
