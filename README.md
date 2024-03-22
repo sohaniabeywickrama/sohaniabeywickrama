@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohani Abeywickrama</h1>
+<h1 align="center"> Sohani Abeywickrama 👋</h1>
 <h3 align="center">UI/UX Designer🎨 🖌️| Creative thinker 🧠 | 📊 User-centered design enthusiast | 🛠️ Problem solver</h3>
 
 - 👨‍💻 Sohani.me [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
