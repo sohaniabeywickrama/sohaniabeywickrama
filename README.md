@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohani Abeywickrama</h1>
-<h3 align="center">UI/UX Designer 🎨</h3>
+<h3 align="center">UI/UX Designer🎨 🖌️| Creative thinker 🧠 | 📊 User-centered design enthusiast | 🛠️ Problem solver</h3>
+
+- 🔭 I’m currently working on **As a UI/UX Designer at Imperial Edutech, I bring a human-centered design approach to the table, coupled with a passion for solving problems in a straightforward manner. With a background in Software Engineering, I've cultivated a unique skill set that allows me to bridge the gap between design and implementation. Since 2022, I've been dedicated to crafting meaningful user experiences, delving into user research, and collaborating with multidisciplinary teams. My work involves close interaction with customers, engineers, and stakeholders, reflecting my commitment to creating solutions that not only align with business goals but also empower users. My approach to tackling complex challenges is informed by a blend of creativity and technical insight. Beyond the conventional realm of UX design, I bring additional creative dimensions to my work, ensuring that the solutions I contribute are not only elegant but also innovative and impactful.**
+
+- 👨‍💻 All of my projects are available at [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
+
+- 📫 How to reach me **sohaniabeywickrama@gmail.com**
+
+- 📄 Know about my experiences [https://read.cv/sohanyy](https://read.cv/sohanyy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
