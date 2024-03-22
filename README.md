@@ -11,7 +11,7 @@
 -  Linkedin https://www.linkedin.com/in/sohani-abeywickrama/
 -  Behance https://www.behance.net/sohaniabeywic
 
--  Email **sohaniabeywickrama@gmail.com**
+-  Email sohaniabeywickrama@gmail.com
 
 -  Resume [https://read.cv/sohanyy](https://read.cv/sohanyy)
 
