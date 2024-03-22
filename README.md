@@ -8,7 +8,8 @@
 
 
 - 👨‍💻 Sohani.me [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
-- 🌐 Sohani.me [https://www.linkedin.com/in/sohani-abeywickrama/)
+- 🌐 Linkedin [https://www.linkedin.com/in/sohani-abeywickrama/
+- 🎨 Behance [https://www.behance.net/sohaniabeywic
 
 -  Email **sohaniabeywickrama@gmail.com**
 
