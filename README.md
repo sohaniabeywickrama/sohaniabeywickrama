@@ -24,10 +24,13 @@ Prototyping, and Solution Testing.
 <b> Product Design </b>
 Design Thinking, Visual Design, Interaction Design, Information Architecture, Wireframing, Prototyping, User Journeys, Mockups, and
 Design Systems.
+
 <b> Design Tools </b>
-Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Procreate, Balsamiq, Maze, inVision, Webflow .
+Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Procreate, Balsamiq, Maze, inVision, Webflow.
+
 <b> Web & mobile app technologies </b>
 HTML, CSS, JavaScript, Bootstrap, Flutter, React, Java, Node.js, React Native, Angular.
+
 <b> Communication Skills <b>
 Clear Expression, Active Listening, Collaboration, Empathy, Stakeholders Interviews, Design Solutions Interviews, Visual Communication, Adaptability.
 
