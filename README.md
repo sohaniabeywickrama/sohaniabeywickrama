@@ -8,8 +8,9 @@
 
 
 - 👨‍💻 Sohani.me [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
+- 🌐 Sohani.me [https://www.linkedin.com/in/sohani-abeywickrama/)
 
-- 📧 Email **sohaniabeywickrama@gmail.com**
+-  Email **sohaniabeywickrama@gmail.com**
 
 - 📄 Resume [https://read.cv/sohanyy](https://read.cv/sohanyy)
 
