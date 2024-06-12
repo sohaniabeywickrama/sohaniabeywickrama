@@ -1,5 +1,5 @@
 <h1 align="center"> Sohani Abeywickrama 💁‍♀️</h1>
-<h3 align="center">UI/UX Designer🎨 🖌️| Creative thinker 🧠 | 📊 User-centered design enthusiast | 🛠️ Problem solver</h3>
+<br>
 
 
 
