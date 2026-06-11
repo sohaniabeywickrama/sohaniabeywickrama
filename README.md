@@ -7,13 +7,6 @@
 
 
 
--  Sohani.me [https://sohaniabeywickrama.github.io/My-Portfoliyo/](https://sohaniabeywickrama.github.io/My-Portfoliyo/)
--  Linkedin https://www.linkedin.com/in/sohani-abeywickrama/
--  Behance https://www.behance.net/sohaniabeywic
--  Dribbble https://dribbble.com/sohaniabeywickrama
--  Email sohaniabeywickrama@gmail.com
-
--  Resume [https://read.cv/sohanyy](https://read.cv/sohanyy)
 
  
 <h6>Let's build something awesome together, say hi! 👋  </h6>
